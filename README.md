@@ -120,7 +120,7 @@ An interactive Tableau dashboard was built to visualise key e-commerce performan
 - Revenue and AOV trends over time  
 
 🔗 **View the interactive dashboard on Tableau Public:**  
-👉 [https://public.tableau.com/views/XXXXXX](https://public.tableau.com/app/profile/zerui.song5528/viz/E-Commerce_17689956056400/E-commercePerformanceDashboard)
+👉 (https://public.tableau.com/app/profile/zerui.song5528/viz/E-Commerce_17689956056400/E-commercePerformanceDashboard)
 
 ---
 
