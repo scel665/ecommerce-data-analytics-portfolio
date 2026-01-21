@@ -126,8 +126,9 @@ An interactive Tableau dashboard was built to visualise key e-commerce performan
 
 ### Dashboard Preview
 
-![E-commerce Dashboard](assets/dashboard_overview.png)
+![E-commerce Dashboard](assets/Dashboard_Preview.png)
 
+—--
 
 ## Key Findings
 
