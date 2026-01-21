@@ -52,6 +52,15 @@ A structured **data quality audit and cleaning pipeline** was applied prior to a
 
 ---
 
+## Tools & Techniques
+
+- **Python:** Pandas, NumPy  
+- **SQL-based analytical concepts:** joins, aggregations, window functions  
+- **Data quality validation and cleaning workflows**  
+- **Exploratory analysis and visualisation**
+
+---
+
 ## Project Objectives
 
 - Conduct a comprehensive data quality audit and define business rules for cleaning  
@@ -70,34 +79,6 @@ The analysis evaluates acquisition channel performance across **scale, quality, 
 - New vs returning user behaviour  
 - Revenue contribution from repeat customers  
 - Channel performance across product categories  
-
----
-
-## Key Findings
-
-- Channel performance varies significantly in both scale and quality.  
-- High revenue does not necessarily indicate high-quality performance, with some channels exhibiting higher refund rates or lower repeat purchasing behaviour.  
-- Certain channels generate lower order volumes but demonstrate stronger long-term value through higher AOV and returning-user revenue share.  
-- User composition differs notably by channel, highlighting varying acquisition and retention dynamics.  
-- Channel effectiveness is not uniform across product categories, suggesting opportunities to better align acquisition strategies with product mix.
-
----
-
-## Business Recommendations
-
-- **Reallocate acquisition spend** towards channels demonstrating stronger repeat purchasing behaviour and lower refund risk.  
-- **Monitor high-revenue but high-refund channels** to identify potential targeting or expectation mismatches.  
-- **Leverage high-AOV channels** for premium or higher-margin product categories.  
-- **Optimise lifecycle strategies** for channels primarily driving first-time purchasers to improve retention.  
-
----
-
-## Tools & Techniques
-
-- **Python:** Pandas, NumPy  
-- **SQL-based analytical concepts:** joins, aggregations, window functions  
-- **Data quality validation and cleaning workflows**  
-- **Exploratory analysis and visualisation**
 
 ---
 
@@ -123,4 +104,46 @@ ecommerce-data-analytics-portfolio/
 │ ├── 01_data_quality_audit.ipynb
 │ ├── 02_data_cleaning.ipynb
 │ └── 03_channel_analysis.ipynb
+│
+│—— assets/ # Dashboard_preview.png
+
+---
+
+## 📊 Interactive Dashboard (Tableau)
+
+An interactive Tableau dashboard was built to visualise key e-commerce performance metrics, including:
+
+- Revenue and order volume by acquisition channel  
+- Refund rate comparison across channels  
+- Revenue distribution by channel and product category  
+- New vs returning customer revenue contribution  
+- Revenue and AOV trends over time  
+
+🔗 **View the interactive dashboard on Tableau Public:**  
+👉 [https://public.tableau.com/views/XXXXXX](https://public.tableau.com/app/profile/zerui.song5528/viz/E-Commerce_17689956056400/E-commercePerformanceDashboard)
+
+---
+
+### Dashboard Preview
+
+![E-commerce Dashboard](assets/dashboard_overview.png)
+
+
+## Key Findings
+
+- Channel performance varies significantly in both scale and quality.  
+- High revenue does not necessarily indicate high-quality performance, with some channels exhibiting higher refund rates or lower repeat purchasing behaviour.  
+- Certain channels generate lower order volumes but demonstrate stronger long-term value through higher AOV and returning-user revenue share.  
+- User composition differs notably by channel, highlighting varying acquisition and retention dynamics.  
+- Channel effectiveness is not uniform across product categories, suggesting opportunities to better align acquisition strategies with product mix.
+
+---
+
+## Business Recommendations
+
+- **Reallocate acquisition spend** towards channels demonstrating stronger repeat purchasing behaviour and lower refund risk.  
+- **Monitor high-revenue but high-refund channels** to identify potential targeting or expectation mismatches.  
+- **Leverage high-AOV channels** for premium or higher-margin product categories.  
+- **Optimise lifecycle strategies** for channels primarily driving first-time purchasers to improve retention.  
+
 
