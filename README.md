@@ -83,7 +83,7 @@ The analysis evaluates acquisition channel performance across **scale, quality, 
 ---
 
 ## Project Structure
-
+```text
 ecommerce-data-analytics-portfolio/
 ├── README.md # Project overview, findings, and recommendations
 ├── requirements.txt # Python dependencies
@@ -106,6 +106,7 @@ ecommerce-data-analytics-portfolio/
 │ └── 03_channel_analysis.ipynb
 │
 │—— assets/ # Dashboard_preview.png
+```
 
 ---
 
